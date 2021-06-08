@@ -1,2 +1,2 @@
-# -MIPS-assembly
+# MIPS-assembly
 . Use MIPS assembly and deliver a working solution that correctly runs on QTSPIM. Solution must have:  A header explaining the file content, author, version, date, etc.  Proper coding style and sufficient comments to explain the solution.  Must be free of any syntax or logic errors.  Must work properly on QTSPIM simulator.  Test your programs with sample data.  Make any assumptions you need. 
